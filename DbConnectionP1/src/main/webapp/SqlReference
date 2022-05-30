@@ -1,0 +1,9 @@
+create table hrlogin(uname varchar(100),password varchar(100))
+
+insert into hrlogin values('admin','admin@123')
+
+select * from hrlogin
+
+create table empreg(email varchar(100),pass varchar(100),gender varchar(100),phone varchar(100))
+
+create table skillset(empname varchar(100),empid varchar(100),batchhnd varchar(90),studenthand varchar(100),currentpos varchar(100),applypos varchar(100),coursehandle varchar(100),comment varchar(100),status varchar(100))
