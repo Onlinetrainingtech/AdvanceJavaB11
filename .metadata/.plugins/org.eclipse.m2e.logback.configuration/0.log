@@ -108,3 +108,4 @@
 2022-06-08 22:12:37,380 [Worker-11: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AdvanceJavaB11\HibernateMaven\src\main\resources
 2022-06-08 22:12:37,389 [Worker-11: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-06-08 22:12:37,391 [Worker-11: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AdvanceJavaB11\HibernateMaven\src\test\resources
+2022-06-10 21:31:22,618 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

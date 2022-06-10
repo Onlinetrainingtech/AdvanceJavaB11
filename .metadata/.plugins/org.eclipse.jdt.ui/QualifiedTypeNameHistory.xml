@@ -29,6 +29,10 @@
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
+    <fullyQualifiedTypeName name="SetterInject.FootballPlayer"/>
+    <fullyQualifiedTypeName name="com.xyz.SpellChecker"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.xyz.TextEditor"/>
 </qualifiedTypeNameHistroy>
